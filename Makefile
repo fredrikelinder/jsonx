@@ -1,4 +1,4 @@
-REBAR = rebar
+REBAR = ./rebar
 
 .PHONY: all xref erl test clean doc
 
