@@ -1,3 +1,11 @@
+WARNING
+-------
+
+This version has a BAD quick non-fix commit!
+
+BACK TO ORIGINAL README
+-----------------------
+
 
 JSONX is an Erlang library for efficient JSON decoding and encoding, implemented in Erlang NIFs.
 Works with binaries as strings, arrays as lists and only knows how to decode UTF-8 (and ASCII).
